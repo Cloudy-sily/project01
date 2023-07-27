@@ -1,0 +1,150 @@
+2023-07-27 13:07:12,415 INFO [main] c.l.c.MailTest [StartupInfoLogger.java:55] Starting MailTest on DESKTOP-SD78KIV with PID 23220 (started by Tomorrow in E:\Java rep\niuke\niuke_project_0\community)
+2023-07-27 13:07:12,471 INFO [main] c.l.c.MailTest [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2023-07-27 13:07:15,130 INFO [main] o.s.b.a.l.ConditionEvaluationReportLoggingListener [ConditionEvaluationReportLoggingListener.java:136] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-07-27 13:08:34,677 INFO [main] c.l.c.MailTest [StartupInfoLogger.java:55] Starting MailTest on DESKTOP-SD78KIV with PID 8740 (started by Tomorrow in E:\Java rep\niuke\niuke_project_0\community)
+2023-07-27 13:08:34,680 INFO [main] c.l.c.MailTest [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2023-07-27 13:08:38,180 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2023-07-27 13:08:38,336 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2023-07-27 13:08:38,731 INFO [main] c.l.c.MailTest [StartupInfoLogger.java:61] Started MailTest in 4.724 seconds (JVM running for 6.118)
+2023-07-27 13:08:39,073 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2023-07-27 13:12:02,753 INFO [main] c.l.c.MailTest [StartupInfoLogger.java:55] Starting MailTest on DESKTOP-SD78KIV with PID 28120 (started by Tomorrow in E:\Java rep\niuke\niuke_project_0\community)
+2023-07-27 13:12:02,757 INFO [main] c.l.c.MailTest [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2023-07-27 13:12:06,058 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2023-07-27 13:12:06,224 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2023-07-27 13:12:06,625 INFO [main] c.l.c.MailTest [StartupInfoLogger.java:61] Started MailTest in 4.571 seconds (JVM running for 6.13)
+2023-07-27 13:12:06,930 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2023-07-27 13:12:29,513 INFO [main] c.l.c.MailTest [StartupInfoLogger.java:55] Starting MailTest on DESKTOP-SD78KIV with PID 24872 (started by Tomorrow in E:\Java rep\niuke\niuke_project_0\community)
+2023-07-27 13:12:29,516 INFO [main] c.l.c.MailTest [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2023-07-27 13:12:32,720 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2023-07-27 13:12:32,885 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2023-07-27 13:12:33,279 INFO [main] c.l.c.MailTest [StartupInfoLogger.java:61] Started MailTest in 4.355 seconds (JVM running for 5.796)
+2023-07-27 13:12:33,674 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2023-07-27 13:18:44,587 INFO [main] c.l.c.MailTest [StartupInfoLogger.java:55] Starting MailTest on DESKTOP-SD78KIV with PID 28832 (started by Tomorrow in E:\Java rep\niuke\niuke_project_0\community)
+2023-07-27 13:18:44,590 INFO [main] c.l.c.MailTest [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2023-07-27 13:18:48,986 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2023-07-27 13:18:49,224 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2023-07-27 13:18:49,942 INFO [main] c.l.c.MailTest [StartupInfoLogger.java:61] Started MailTest in 6.113 seconds (JVM running for 7.678)
+2023-07-27 13:18:50,350 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2023-07-27 13:20:40,440 INFO [main] c.l.c.MailTest [StartupInfoLogger.java:55] Starting MailTest on DESKTOP-SD78KIV with PID 28492 (started by Tomorrow in E:\Java rep\niuke\niuke_project_0\community)
+2023-07-27 13:20:40,444 INFO [main] c.l.c.MailTest [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2023-07-27 13:20:43,945 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2023-07-27 13:20:44,084 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2023-07-27 13:20:44,525 INFO [main] c.l.c.MailTest [StartupInfoLogger.java:61] Started MailTest in 4.703 seconds (JVM running for 6.102)
+2023-07-27 13:20:44,813 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2023-07-27 13:21:18,266 INFO [main] c.l.c.MailTest [StartupInfoLogger.java:55] Starting MailTest on DESKTOP-SD78KIV with PID 28960 (started by Tomorrow in E:\Java rep\niuke\niuke_project_0\community)
+2023-07-27 13:21:18,269 INFO [main] c.l.c.MailTest [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2023-07-27 13:21:21,475 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2023-07-27 13:21:21,907 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2023-07-27 13:21:22,711 INFO [main] c.l.c.MailTest [StartupInfoLogger.java:61] Started MailTest in 5.081 seconds (JVM running for 6.506)
+2023-07-27 13:21:23,200 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2023-07-27 13:22:18,709 INFO [main] c.l.c.MailTest [StartupInfoLogger.java:55] Starting MailTest on DESKTOP-SD78KIV with PID 28280 (started by Tomorrow in E:\Java rep\niuke\niuke_project_0\community)
+2023-07-27 13:22:18,712 INFO [main] c.l.c.MailTest [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2023-07-27 13:22:22,269 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2023-07-27 13:22:22,413 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2023-07-27 13:22:22,858 INFO [main] c.l.c.MailTest [StartupInfoLogger.java:61] Started MailTest in 4.746 seconds (JVM running for 6.167)
+2023-07-27 13:22:23,188 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2023-07-27 13:25:05,524 INFO [main] c.l.c.MailTest [StartupInfoLogger.java:55] Starting MailTest on DESKTOP-SD78KIV with PID 19880 (started by Tomorrow in E:\Java rep\niuke\niuke_project_0\community)
+2023-07-27 13:25:05,526 INFO [main] c.l.c.MailTest [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2023-07-27 13:25:09,379 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2023-07-27 13:25:09,859 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2023-07-27 13:25:10,499 INFO [main] c.l.c.MailTest [StartupInfoLogger.java:61] Started MailTest in 5.671 seconds (JVM running for 7.08)
+2023-07-27 13:25:21,525 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2023-07-27 13:26:47,734 INFO [main] c.l.c.MailTest [StartupInfoLogger.java:55] Starting MailTest on DESKTOP-SD78KIV with PID 28684 (started by Tomorrow in E:\Java rep\niuke\niuke_project_0\community)
+2023-07-27 13:26:47,737 INFO [main] c.l.c.MailTest [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2023-07-27 13:26:51,235 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2023-07-27 13:26:51,433 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2023-07-27 13:26:51,856 INFO [main] c.l.c.MailTest [StartupInfoLogger.java:61] Started MailTest in 4.803 seconds (JVM running for 6.271)
+2023-07-27 13:27:02,578 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2023-07-27 13:28:34,139 INFO [main] c.l.c.MailTest [StartupInfoLogger.java:55] Starting MailTest on DESKTOP-SD78KIV with PID 8220 (started by Tomorrow in E:\Java rep\niuke\niuke_project_0\community)
+2023-07-27 13:28:34,141 INFO [main] c.l.c.MailTest [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2023-07-27 13:28:38,143 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2023-07-27 13:28:38,322 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2023-07-27 13:28:39,117 INFO [main] c.l.c.MailTest [StartupInfoLogger.java:61] Started MailTest in 5.552 seconds (JVM running for 6.994)
+2023-07-27 13:28:50,698 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2023-07-27 13:33:47,661 INFO [main] c.l.c.MailTest [StartupInfoLogger.java:55] Starting MailTest on DESKTOP-SD78KIV with PID 27792 (started by Tomorrow in E:\Java rep\niuke\niuke_project_0\community)
+2023-07-27 13:33:47,664 INFO [main] c.l.c.MailTest [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2023-07-27 13:33:51,289 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2023-07-27 13:33:51,420 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2023-07-27 13:33:51,806 INFO [main] c.l.c.MailTest [StartupInfoLogger.java:61] Started MailTest in 4.764 seconds (JVM running for 6.119)
+2023-07-27 13:34:02,567 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2023-07-27 13:37:56,620 INFO [main] c.l.c.MailTest [StartupInfoLogger.java:55] Starting MailTest on DESKTOP-SD78KIV with PID 28008 (started by Tomorrow in E:\Java rep\niuke\niuke_project_0\community)
+2023-07-27 13:37:56,626 INFO [main] c.l.c.MailTest [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2023-07-27 13:38:00,196 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2023-07-27 13:38:00,333 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2023-07-27 13:38:00,812 INFO [main] c.l.c.MailTest [StartupInfoLogger.java:61] Started MailTest in 4.822 seconds (JVM running for 6.226)
+2023-07-27 13:38:20,868 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2023-07-27 13:43:55,005 INFO [main] c.l.c.MailTest [StartupInfoLogger.java:55] Starting MailTest on DESKTOP-SD78KIV with PID 20504 (started by Tomorrow in E:\Java rep\niuke\niuke_project_0\community)
+2023-07-27 13:43:55,016 INFO [main] c.l.c.MailTest [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2023-07-27 13:43:58,302 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2023-07-27 13:43:58,448 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2023-07-27 13:43:58,853 INFO [main] c.l.c.MailTest [StartupInfoLogger.java:61] Started MailTest in 4.426 seconds (JVM running for 6.147)
+2023-07-27 13:44:18,825 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2023-07-27 15:15:35,164 INFO [main] c.l.c.MapperTest [StartupInfoLogger.java:55] Starting MapperTest on DESKTOP-SD78KIV with PID 26372 (started by Tomorrow in E:\Java rep\niuke\niuke_project_0\community)
+2023-07-27 15:15:35,197 INFO [main] c.l.c.MapperTest [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2023-07-27 15:15:38,460 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2023-07-27 15:15:38,612 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2023-07-27 15:15:39,034 INFO [main] c.l.c.MapperTest [StartupInfoLogger.java:61] Started MapperTest in 4.598 seconds (JVM running for 6.401)
+2023-07-27 15:15:39,394 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2023-07-27 15:15:39,672 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2023-07-27 15:15:39,795 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2023-07-27 15:15:39,798 INFO [SpringContextShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2023-07-27 15:15:39,816 INFO [SpringContextShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2023-07-27 15:19:17,648 INFO [main] c.l.c.MapperTest [StartupInfoLogger.java:55] Starting MapperTest on DESKTOP-SD78KIV with PID 24388 (started by Tomorrow in E:\Java rep\niuke\niuke_project_0\community)
+2023-07-27 15:19:17,652 INFO [main] c.l.c.MapperTest [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2023-07-27 15:19:20,963 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2023-07-27 15:19:21,111 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2023-07-27 15:19:21,541 INFO [main] c.l.c.MapperTest [StartupInfoLogger.java:61] Started MapperTest in 4.764 seconds (JVM running for 6.44)
+2023-07-27 15:19:21,841 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2023-07-27 15:19:22,133 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2023-07-27 15:19:22,320 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2023-07-27 15:19:22,321 INFO [SpringContextShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2023-07-27 15:19:22,337 INFO [SpringContextShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2023-07-27 20:14:23,461 INFO [main] c.l.c.MapperTest [StartupInfoLogger.java:55] Starting MapperTest on DESKTOP-SD78KIV with PID 31808 (started by Tomorrow in E:\Java rep\niuke\niuke_project_0\community)
+2023-07-27 20:14:23,496 INFO [main] c.l.c.MapperTest [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2023-07-27 20:14:27,615 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2023-07-27 20:14:27,794 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2023-07-27 20:14:28,269 INFO [main] c.l.c.MapperTest [StartupInfoLogger.java:61] Started MapperTest in 5.676 seconds (JVM running for 7.565)
+2023-07-27 20:14:28,732 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2023-07-27 20:14:29,012 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2023-07-27 20:14:29,219 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2023-07-27 20:14:29,228 INFO [SpringContextShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2023-07-27 20:14:29,257 INFO [SpringContextShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2023-07-27 20:14:42,236 INFO [restartedMain] c.l.c.CommunityApplication [StartupInfoLogger.java:55] Starting CommunityApplication on DESKTOP-SD78KIV with PID 22188 (started by Tomorrow in E:\Java rep\niuke\niuke_project_0)
+2023-07-27 20:14:42,244 INFO [restartedMain] c.l.c.CommunityApplication [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2023-07-27 20:14:42,389 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:225] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-07-27 20:14:42,390 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:225] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-07-27 20:14:43,957 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:92] Tomcat initialized with port(s): 9001 (http)
+2023-07-27 20:14:43,968 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-9001"]
+2023-07-27 20:14:43,969 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2023-07-27 20:14:43,969 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.29]
+2023-07-27 20:14:44,110 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2023-07-27 20:14:44,111 INFO [restartedMain] o.s.w.c.ContextLoader [ServletWebServerApplicationContext.java:284] Root WebApplicationContext: initialization completed in 1721 ms
+2023-07-27 20:14:44,694 INFO [restartedMain] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2023-07-27 20:14:44,755 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2023-07-27 20:14:44,958 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:58] LiveReload server is running on port 35729
+2023-07-27 20:14:44,979 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-9001"]
+2023-07-27 20:14:45,006 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:204] Tomcat started on port(s): 9001 (http) with context path '/community'
+2023-07-27 20:14:45,009 INFO [restartedMain] c.l.c.CommunityApplication [StartupInfoLogger.java:61] Started CommunityApplication in 3.459 seconds (JVM running for 5.202)
+2023-07-27 20:16:52,143 INFO [restartedMain] c.l.c.CommunityApplication [StartupInfoLogger.java:55] Starting CommunityApplication on DESKTOP-SD78KIV with PID 12252 (started by Tomorrow in E:\Java rep\niuke\niuke_project_0)
+2023-07-27 20:16:52,150 INFO [restartedMain] c.l.c.CommunityApplication [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2023-07-27 20:16:52,245 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:225] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-07-27 20:16:52,246 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:225] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-07-27 20:16:53,848 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:92] Tomcat initialized with port(s): 8080 (http)
+2023-07-27 20:16:53,857 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2023-07-27 20:16:53,858 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2023-07-27 20:16:53,858 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.29]
+2023-07-27 20:16:53,983 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2023-07-27 20:16:53,983 INFO [restartedMain] o.s.w.c.ContextLoader [ServletWebServerApplicationContext.java:284] Root WebApplicationContext: initialization completed in 1737 ms
+2023-07-27 20:16:54,550 INFO [restartedMain] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2023-07-27 20:16:54,612 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2023-07-27 20:16:54,750 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:58] LiveReload server is running on port 35729
+2023-07-27 20:16:54,773 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2023-07-27 20:16:54,805 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:204] Tomcat started on port(s): 8080 (http) with context path '/community'
+2023-07-27 20:16:54,808 INFO [restartedMain] c.l.c.CommunityApplication [StartupInfoLogger.java:61] Started CommunityApplication in 3.324 seconds (JVM running for 4.897)
+2023-07-27 20:17:08,087 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-27 20:17:08,088 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2023-07-27 20:17:08,094 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 6 ms
+2023-07-27 20:17:08,166 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2023-07-27 20:17:08,289 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
